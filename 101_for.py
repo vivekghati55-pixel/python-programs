@@ -1,0 +1,3 @@
+# WAP to print 50 to 100 number...
+for n in range(50,101):
+    print(n)
