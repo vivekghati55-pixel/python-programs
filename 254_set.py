@@ -19,7 +19,7 @@
 # s1={1,2,3,4}
 # s2={3,4,5,6}
 
-# #intersection():- iits keep only common values
+# #intersection():- its keep only common values
 # # s3= s1.intersection(s2)
 # # s3= s1&s2
 # # s1.intersection_update(s2)
